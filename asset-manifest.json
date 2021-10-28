@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Practice-react-app/static/css/main.97b89987.chunk.css",
+    "main.js": "/Practice-react-app/static/js/main.aa118752.chunk.js",
+    "main.js.map": "/Practice-react-app/static/js/main.aa118752.chunk.js.map",
+    "runtime-main.js": "/Practice-react-app/static/js/runtime-main.7b0a4b14.js",
+    "runtime-main.js.map": "/Practice-react-app/static/js/runtime-main.7b0a4b14.js.map",
+    "static/js/2.4a00c335.chunk.js": "/Practice-react-app/static/js/2.4a00c335.chunk.js",
+    "static/js/2.4a00c335.chunk.js.map": "/Practice-react-app/static/js/2.4a00c335.chunk.js.map",
+    "index.html": "/Practice-react-app/index.html",
+    "static/css/main.97b89987.chunk.css.map": "/Practice-react-app/static/css/main.97b89987.chunk.css.map",
+    "static/js/2.4a00c335.chunk.js.LICENSE.txt": "/Practice-react-app/static/js/2.4a00c335.chunk.js.LICENSE.txt",
+    "static/media/japanese-dog-shiba-inu-260nw-761358958.851ddcdf.jpg": "/Practice-react-app/static/media/japanese-dog-shiba-inu-260nw-761358958.851ddcdf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b0a4b14.js",
+    "static/js/2.4a00c335.chunk.js",
+    "static/css/main.97b89987.chunk.css",
+    "static/js/main.aa118752.chunk.js"
+  ]
+}
